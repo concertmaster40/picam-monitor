@@ -21,7 +21,7 @@ from picamera2.outputs import FileOutput
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 SENDER_EMAIL = "nickjackel@gmail.com"
-SENDER_PASSWORD = "maxx rzda cytj xvat" 
+SENDER_PASSWORD = "" # generate app password from gmail (real one omitted for security purposes)
 RECIPIENT_EMAIL = "nickjackel@gmail.com"
 
 # Minimum cooldown between email alerts in seconds
